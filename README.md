@@ -6,6 +6,8 @@
 
 ## Approach and Workflow:
 ### Exploring the data:
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/77911251/157307309-b094b2c1-eaa3-46f8-bf6e-76121c021052.png">
+
 #### Visualized data for different regions individually - Observed the presence of outliers, seasonality, trends, and noise.
 
 #### Visualized data for 500 randomly selected regions in one plot - Observed that the data spanned a significant range, with the lowest plots near the origin, and the highest plots reaching the value of 50.
