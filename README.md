@@ -11,3 +11,4 @@
 #### Visualized data for different regions individually - Observed the presence of outliers, seasonality, trends, and noise.
 
 #### Visualized data for 500 randomly selected regions in one plot - Observed that the data spanned a significant range, with the lowest plots near the origin, and the highest plots reaching the value of 50.
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/77911251/173175697-2f0be313-4754-4026-b103-61282d3e420a.jpg">
