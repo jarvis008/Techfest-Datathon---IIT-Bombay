@@ -3,6 +3,7 @@
 # Problem Statement:
 ### Given the business potential of 3,915 regions over a period of 6 years(72 months), forecast the business potential of all these regions for the next 15 months. 
 ### Link to the detailed problem statement - https://techfest.org/2021/competitons/Datathon.pdf
+### Our team made it to the top 10 finalists nationwide.
 
 # Exploring the data:
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/77911251/157307309-b094b2c1-eaa3-46f8-bf6e-76121c021052.png">
@@ -25,3 +26,8 @@
 
 ## Pearson Correlation
 #### We used the Pearson Correlation method to find out how closely related each region is with every other region. The value of Pearson Correlation lies between -1 and 1, with 1 indicating complete positive correlation, -1 indicating complete negative correlation, and 0 indicating no correlation between the data for 2 regions. Using Pearson Correlation, we divided the regions into different groups according to their extent of correlation. We also created a group for regions that were poorly correlated. We selected various regions from each group for training the forecaster. A total of 1,313 regions were selected.
+
+## Models Tried
+### ARIMA - 
+
+
